@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{431:function(t,s,a){"use strict";a.r(s);var r={methods:{},props:["url"]},e=a(27),l=Object(e.a)(r,(function(){var t=this.$createElement,s=this._self._c||t;return s("div",{staticClass:"my-wrapper"},[s("img",{staticClass:".magnify",attrs:{src:this.url,alt:""}})])}),[],!1,null,null,null);s.default=l.exports}}]);
